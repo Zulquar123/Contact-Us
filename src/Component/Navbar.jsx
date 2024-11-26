@@ -12,7 +12,6 @@ export default function Navbar() {
       <div>
         <img src={logo} alt="Logo" />
       </div>
-
       <div className="flex gap-4 text-xl font-bold">
         <NavLink style={style} to="/">
           Home
@@ -24,7 +23,6 @@ export default function Navbar() {
           About
         </NavLink>
       </div>
-
       <div>
         <button className="text-xl font-bold text-white bg-[#D01C28] px-3 py-2">
           Login
