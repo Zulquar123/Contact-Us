@@ -20,7 +20,7 @@ export default function FormHeader() {
       </div>
 
       {/* Email Section */}
-      <div className="flex items-center justify-center gap-3 border-2 border-black m-auto p-3 w-full sm:w-[460px] rounded">
+      <div className="flex items-center justify-center gap-3 border-2 border-black m-auto p-3 w-full sm:w-[400px] rounded">
         <MdMessage className="font-bold text-xl" />
         <span className="font-semibold">VIA EMAIL FORM</span>
       </div>
