@@ -4,7 +4,7 @@ export default function FormHeader() {
   const style =
     "flex items-center justify-center gap-3 bg-black text-white p-3 w-[220px] rounded";
   return (
-    <div className="flex flex-col gap-3">
+    <div className="flex flex-col gap-2">
       <div className="flex items-center gap-5 justify-center">
         <div className={style}>
           <MdMessage className="font-bold text-xl" />

@@ -1,6 +1,6 @@
 export default function ContactHeader() {
   return (
-    <div className="w-[75%] m-auto mt-1 flex flex-col gap-2">
+    <div className="w-[75%] m-auto mt-[-20px] flex flex-col gap-2">
       <h1 className="text-4xl font-bold">CONTACT US</h1>
       <p className="text-sm font-semibold">
         LET’S CONNECT: WE’RE HERE TO HELP, AND WE’D LOVE TO HEAR FROM YOU!

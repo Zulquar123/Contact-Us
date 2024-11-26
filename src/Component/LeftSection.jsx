@@ -3,7 +3,7 @@ import Form from "./Form";
 
 export default function LeftSection() {
   return (
-    <div className="mt-10">
+    <div className="mt-9">
       <FormHeader />
       <Form />
     </div>
